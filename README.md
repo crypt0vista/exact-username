@@ -3,7 +3,8 @@
 🚀 Aspiring Web Developer  
 💻 Learning HTML, CSS, JavaScript  
 🛠 Practicing Git & GitHub daily  
-📫 Reach me: your-email@gmail.com
+📫 Reach me: cryptovista3@gmail.com
+
 
 ### 🧰 Tech Stack
 - HTML
